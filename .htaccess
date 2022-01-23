@@ -1,0 +1,4 @@
+ 
+RewriteEngine on
+RewriteRule pomodoro index.html
+RewriteRule przerwa break.html
