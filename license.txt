@@ -1,0 +1,1 @@
+Kod źródłowy niniejszego projektu lub jego fragmenty mogą być wykorzystywanie i/lub modyfikowane, pod warunkiem pozostawienia informacji o jego pochodzeniu, jako link do profilu Github, w kodzie i na stronie internetowej projektu. Autor niniejszego projektu nie ponosi żadnej odpowiedzialności za błędy w kodzie źródłowym.
