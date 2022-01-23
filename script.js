@@ -71,8 +71,3 @@ function restart2()
     seconds = 60;
     document.getElementById('timer').innerHTML = "05" + " : " + "00";
 }
-
-
-
-
-<div id="wufoo-zz0d9yl0o0gx5s"> Fill out my <a href="https://stanislawstask.wufoo.com/forms/zz0d9yl0o0gx5s">online form</a>. </div> <script type="text/javascript"> var zz0d9yl0o0gx5s; (function(d, t) { var s = d.createElement(t), options = { 'userName':'stanislawstask', 'formHash':'zz0d9yl0o0gx5s', 'autoResize':true, 'height':'503', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zz0d9yl0o0gx5s = new WufooForm(); zz0d9yl0o0gx5s.initialize(options); zz0d9yl0o0gx5s.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
